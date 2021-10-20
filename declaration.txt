@@ -1,0 +1,6 @@
+Name: Cian Crowley-Smith
+StudentID: 18314211
+
+Declarion of work:
+
+I declare this assignment was completed by myself and all work that I have provided was my work unless otherwise stated with comments in Assignment1.java
